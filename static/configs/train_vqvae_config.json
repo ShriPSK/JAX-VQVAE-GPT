@@ -1,7 +1,7 @@
 {
     "seed": 23,
-    "dataset": "mnist",
-    "resize_shape": [40, 40],
+    "dataset": "cifar10",
+    "resize_shape": [32, 32],
     "K": 256,
     "D": 128,
     "compression_level": 3,
